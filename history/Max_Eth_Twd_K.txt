@@ -1,0 +1,5 @@
+Row 218654
+1532325540,1.41E+04,1.41E+04,1.41E+04,1.41E+04,0E+00
+
+invalid character '<' looking for beginning of value
+2018/09/28 07:02:36 invalid character '<' looking for beginning of value
