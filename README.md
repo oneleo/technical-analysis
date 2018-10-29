@@ -40,6 +40,10 @@
 
     go get -u -v github.com/maicoin/max-exchange-api-go
 
+## Warning
+
+- The CoinmarketCap_*_k.csv files are created by [cryptoCMD](https://github.com/guptarohit/cryptoCMD) Project
+
 ## LICENSE
 
     <one line to give the program's name and a brief idea of what it does.>
